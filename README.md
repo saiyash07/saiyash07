@@ -1,25 +1,8 @@
 # Hey! 👋
 
 <div align="center">
-  <!-- Barcelona Colors Styled SVG Banner -->
-  <svg width="100%" height="160" viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="160" rx="15" fill="#101012"/>
-    <!-- Blaugrana Stripes on the Left -->
-    <rect x="0" y="0" width="30" height="160" rx="4" fill="#004D98"/>
-    <rect x="30" y="0" width="30" height="160" rx="4" fill="#A50044"/>
-    <rect x="60" y="0" width="30" height="160" rx="4" fill="#004D98"/>
-    <rect x="90" y="0" width="30" height="160" rx="4" fill="#A50044"/>
-    
-    <!-- Gold Accent Line -->
-    <rect x="120" y="0" width="8" height="160" fill="#EDBB00"/>
-    
-    <!-- Title Text -->
-    <text x="160" y="75" fill="#EDBB00" font-family="'Outfit', 'Inter', sans-serif" font-size="36" font-weight="800" letter-spacing="2">SAIYASH POOJARI</text>
-    <text x="160" y="110" fill="#ffffff" font-family="'Inter', sans-serif" font-size="18" font-weight="500">First-Year B.Tech Student & Systems Engineer</text>
-    
-    <!-- Football Icon / Decorative Motif -->
-    <text x="700" y="95" font-size="50">⚽</text>
-  </svg>
+  <!-- Barcelona Colors Styled Banner -->
+  <img src="https://raw.githubusercontent.com/saiyash07/saiyash07/main/banner.svg" width="100%" alt="Saiyash Poojari Banner" />
 </div>
 
 <br/>
