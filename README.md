@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Barcelona Colors Styled Banner -->
-  <img src="https://raw.githubusercontent.com/saiyash07/saiyash07/main/banner.svg" width="100%" alt="Saiyash Poojari Banner" />
+  <img src="https://raw.githubusercontent.com/saiyash07/saiyash07/main/banner-v2.svg" width="100%" alt="Saiyash Poojari Banner" />
 </div>
 
 <br/>
