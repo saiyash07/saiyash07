@@ -1,4 +1,3 @@
-# Hey! 👋
 
 <div align="center">
   <!-- Barcelona Colors Styled Banner -->
