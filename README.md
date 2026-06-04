@@ -33,7 +33,7 @@
 
 ### About My Projects 🏆
 
-#### ⚽ [Deutsch Meister](https://deutsch-meister-xi.vercel.app)
+#### 🇩🇪 [Deutsch Meister](https://deutsch-meister-xi.vercel.app)
 A comprehensive, Duolingo-style language learning application built to guide users from A1 to C2 proficiency.
 * Implemented a custom Gemini-powered AI tutor for conversational practice.
 * Built interactive lesson interfaces and gamified streak modules.
