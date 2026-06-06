@@ -51,7 +51,6 @@ A custom-engineered library implementing foundational dynamic array algorithms e
 * **Email:** [poojarisaiyash@gmail.com](mailto:poojarisaiyash@gmail.com)
 * **LinkedIn:** [linkedin.com/in/saiyashpoojari/](https://www.linkedin.com/in/saiyashpoojari/)
 * **Instagram:** [@saiyaas.hh](https://www.instagram.com/saiyaas.hh/)
-* **Phone:** [+91 84540 34440](tel:8454034440)
 * **Location:** Mumbai, India
 
 <div align="center">
