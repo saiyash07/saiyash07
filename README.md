@@ -39,17 +39,17 @@ A comprehensive, Duolingo-style language learning application built to guide use
 * Built interactive lesson interfaces and gamified streak modules.
 * Synchronized student statistics dynamically using Firebase.
 
-#### 🧠 [Brain Forge](https://github.com/saiyash07/BrainForgeAI)
-An intelligent, AI-powered learning and knowledge-forging platform that transforms raw concepts into structured study paths.
-* Built a Gemini-powered study assistant for personalised, conversational learning guidance.
-* Designed adaptive quiz modules and progress tracking to reinforce mastery at every stage.
-* Architected a real-time Firebase backend to sync study sessions and streaks across devices.
+#### 🧠⚡ [Brain Forge](https://brain-forge-omega.vercel.app)
+An AI-powered, all-in-one student productivity and learning platform built with Next.js, Firebase, and the Google Gemini API.
+* AI Subject Generator — upload a PDF syllabus and Gemini 1.5 Flash auto-extracts topics, builds modules, and generates 10 practice questions.
+* Automated Timetable Calendar — syncs your weekly college schedule directly from university emails via Google Apps Script.
+* Energy-Based Task Scheduler, Focus Pomodoro Timer, Language Practice Module, and a Wellbeing Tracker all in one dashboard.
 
-#### 🎬 [Footy Shorts AI](https://github.com/saiyash07/FootyShorts)
-A dynamic short-form video platform built exclusively for football content — goals, skills, tactics, and match highlights.
-* Delivered a TikTok-style vertical swipe experience curated entirely around the beautiful game.
-* Engineered personalised feeds using interest signals to surface the most relevant football clips.
-* Integrated smooth Framer Motion transitions for a fluid, native-feeling mobile-first interface.
+#### 🎬 [Footy Shorts AI](https://github.com/saiyash07/FootyShortsAI)
+A production-ready YouTube Shorts automation system that monitors Google Drive for new football clips and handles the entire pipeline end-to-end.
+* Google Drive Watcher scans every 5 minutes — new `.mp4` clips are registered in SQLite and queued automatically.
+* Gemini AI Engine generates high-CTR titles, descriptions, and 15–20 viral hashtags per clip with zero manual input.
+* YouTube Resumable Uploader pushes clips to YouTube Shorts and presents results in a dark-mode glassmorphic analytics dashboard.
 
 ---
 
