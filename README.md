@@ -39,10 +39,17 @@ A comprehensive, Duolingo-style language learning application built to guide use
 * Built interactive lesson interfaces and gamified streak modules.
 * Synchronized student statistics dynamically using Firebase.
 
-#### 📂 [Array Toolkit (C++ / DSA)](https://github.com/saiyash07/DSACPP)
-A custom-engineered library implementing foundational dynamic array algorithms entirely from scratch.
-* Focuses on deep concepts of pointers, memory allocation, and copy/move semantics in C++.
-* Refactored helper routines to maximize search and insertion speed.
+#### 🧠 [Brain Forge AI](https://github.com/saiyash07/BrainForgeAI)
+An intelligent, AI-powered learning and knowledge-forging platform that transforms raw concepts into structured study paths.
+* Built a Gemini-powered study assistant for personalised, conversational learning guidance.
+* Designed adaptive quiz modules and progress tracking to reinforce mastery at every stage.
+* Architected a real-time Firebase backend to sync study sessions and streaks across devices.
+
+#### 🎬 [Footy Shorts](https://github.com/saiyash07/FootyShorts)
+A dynamic short-form video platform built exclusively for football content — goals, skills, tactics, and match highlights.
+* Delivered a TikTok-style vertical swipe experience curated entirely around the beautiful game.
+* Engineered personalised feeds using interest signals to surface the most relevant football clips.
+* Integrated smooth Framer Motion transitions for a fluid, native-feeling mobile-first interface.
 
 ---
 
