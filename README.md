@@ -57,7 +57,6 @@ A production-ready YouTube Shorts automation system that monitors Google Drive f
 
 * **Email:** [poojarisaiyash@gmail.com](mailto:poojarisaiyash@gmail.com)
 * **LinkedIn:** [linkedin.com/in/saiyashpoojari/](https://www.linkedin.com/in/saiyashpoojari/)
-* **Instagram:** [@saiyaas.hh](https://www.instagram.com/saiyaas.hh/)
 * **Location:** Mumbai, India
 
 <div align="center">
