@@ -16,7 +16,7 @@
 
 ### I'm Saiyash Poojari!
 
-* 🎓 **Currently:** First-Year B.Tech student building strong Computer Science foundations from the ground up.
+* 🎓 **Currently:** Second-Year B.Tech student building strong Computer Science foundations from the ground up.
 * ⚽ **Passion:** Merging Artificial Intelligence with Sports Analytics to decode tactical football performance.
 * 🧠 **Philosophy:** Prioritizing deep systems understanding, pointers, and memory layout over quick templates.
 
